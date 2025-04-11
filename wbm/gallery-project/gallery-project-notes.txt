@@ -5,20 +5,56 @@ Inicio: 29/03/2025
 Fim:
 
 ----------------------------------------------------------
+03/04/2025 - Aula 391 - Visão Geral do Projeto
+
+assistida:03/04/2025
+exercício: sem.
+
+O projeto será utilizado JavaScript, BootStrap, Webpack e jQuery.
+
+Esse projeto sinula uma galeria de fotos de viagens. Através de botões será filtrado as fotos da cidades visitadas.
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 392 - Referenciando os Estilos (SCSS) 
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 393 - Implementando o Header 
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 394 - Carregando HTML via Ajax (Includes)
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 395 - Implementando a Galeria de Fotos
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 396 - Filtrar fotos por cidade (jQuery plugin)
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 397 - Executando o Plugin
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
+xx/xx/2025 - Aula 398 - Implementando o Footer
+
+assistida:
+exercício:
 
 ----------------------------------------------------------
 
