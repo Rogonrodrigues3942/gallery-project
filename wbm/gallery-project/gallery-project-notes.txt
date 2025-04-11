@@ -12,13 +12,21 @@ exercício: sem.
 
 O projeto será utilizado JavaScript, BootStrap, Webpack e jQuery.
 
-Esse projeto sinula uma galeria de fotos de viagens. Através de botões será filtrado as fotos da cidades visitadas.
+Esse projeto simula uma galeria de fotos de viagens. Através de botões será filtrado as fotos da cidades visitadas.
+
+Dependências do bootstrap: "bootstrap": "4.1.1", "jquery": "3.3.1" e  "popper.js": "1.14.3".
+
+Novidade: "copy-webpack-plugin": "4.5.1",
+
+Estudar o arquivo: "webpack.config.js"
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 392 - Referenciando os Estilos (SCSS) 
+11/04/2025 - Aula 392 - Referenciando os Estilos (SCSS) 
 
-assistida:
-exercício:
+assistida: 11/04/2025
+exercício: A FAZER
+
+Atenção os arquivos "scss" são criados a partir do projeto.
 
 ----------------------------------------------------------
 xx/xx/2025 - Aula 393 - Implementando o Header 
