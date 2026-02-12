@@ -1,0 +1,6 @@
+@import "~bootstrap/scss/bootstrap";
+
+$fa-font-path: "~font-awesome/fonts";   //TODO: Sobreesc revendo a variável que aponta para o arquivos das fontes.
+@import "~font-awesome/scss/font-awesome";
+
+@import "custom";
