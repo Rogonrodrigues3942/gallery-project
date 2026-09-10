@@ -1,0 +1,22 @@
+INSERT INTO pedido
+(numero_pedido, prazo_entrega, codigo_cliente, codigo_vendedor);
+VALUES(97, 20, 720, 101);
+VALUES(101, 15, 720, 101);
+VALUES(137, 20, 720, 720);
+VALUES(148, 20, 720, 101);
+VALUES(189, 15, 870, 213);
+VALUES(104, 30, 110, 101);
+VALUES(203, 30, 830, 250);
+VALUES(98, 20, 410, 209);
+VALUES(143, 20, 20, 111);
+VALUES(105, 15, 180, 240);
+VALUES(111, 20, 260, 240);
+VALUES(103, 20, 20, 11;
+VALUES(91, 20, 260, 11);
+VALUES(138, 20, 260, 11);
+VALUES(108, 15, 290, 310);
+VALUES(119, 30, 390, 250);
+VALUES(127, 10, 410, 11);
+
+select *
+from pedido
