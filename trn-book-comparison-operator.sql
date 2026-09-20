@@ -31,7 +31,8 @@ where cidade_cliente = 'Niteroi'
 --Exemplo 5:
 --Quais clientes que moram no estado de São Paulo, uf = SP.
 
-select * 
+select 	nome_cliente,
+		cidade_cliente 
 from cliente
-where cidade_cliente = 'Niteroi'
+where uf_cliente  = 'SP'
 
