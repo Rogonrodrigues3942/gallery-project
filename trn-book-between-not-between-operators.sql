@@ -27,6 +27,7 @@ where valor_unitario_produto::numeric between 0.32 and 2.00
 -- Não esquecer de realizar na coluna valor_unitario_produto.
 
 select 	descricao_produto,
-		codigo_produto
+		codigo_produto,
+		valor_unitario_produto 
 from produto
 where valor_unitario_produto::numeric not between 0.32 and 2.00 
