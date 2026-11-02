@@ -505,3 +505,7 @@ select u.*,
 			from comanda c2
 		)
 from usuario u 
+
+
+
+
